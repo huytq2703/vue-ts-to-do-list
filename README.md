@@ -18,8 +18,8 @@ Follow these steps to set up the project locally:
 
 **1. Clone the Repository**:
 
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/huytq2703/vue-ts-to-do-list.git
+    cd vue-ts-to-do-list
 
 **2. Install Dependencies**:
 
